@@ -1,0 +1,19 @@
+
+h1{
+    color:#03045e;
+    font-size: 50px;
+    text-align: center;
+}
+p{
+    color:white;
+    background-color: #023e8a;
+    padding: 15px;
+    border: 5px solid #0077b6;
+    /*margin: 50px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin:50px 10px 20px 10px ;*/
+    margin: auto 50px;
+    text-align: center;
+}

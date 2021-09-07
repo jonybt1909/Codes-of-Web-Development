@@ -1,0 +1,42 @@
+h1{
+    color: #1d3557;
+}
+
+ul {
+    list-style-type: none;
+    background-color: #457b9d;
+    overflow: hidden;
+    margin:0;
+    padding: 0;
+}
+/*Para ponerlo Horizontal*/
+ul li{
+    float: left;
+}
+/*Creacion del boton*/
+li a:link, li a:visited{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    text-decoration: none;
+}
+
+li a:hover, li a:active{
+    background-color: #1d3557;
+}
+
+ol{
+    list-style-type: none;
+    counter-reset: contador;
+}
+ol li{
+    counter-increment: contador;
+}
+ol li::before{
+    content: "Curso "counter(contador)" ";
+    color: #0f43ee;
+}
+ol li::after{
+    content: ".";
+}

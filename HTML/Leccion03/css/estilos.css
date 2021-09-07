@@ -1,0 +1,61 @@
+h1{
+    color: #560bad;
+    text-align: center;
+}
+a:link, a:visited{
+    background-color:#b5179e ;
+    color: white;
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover, a:active{
+    background-color: #f72585;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+h1{
+    color:#f07167;
+    text-align: center;
+}
+Estado normal del Link
+a:link{
+    color:#fb9500;
+    text-decoration: none;
+}
+Cuando ya hemos oprimido anteriormente el Link
+a:visited{
+    color: #219ebc;
+    text-decoration: none;
+}
+
+Cuando nos ponemos encima del Link
+a:hover{
+    color: #8ecae6;
+    text-decoration: underline;
+}
+
+Cuando mantenemos oprimido sobre el link
+Estado activo
+
+a:active{
+    color:#023047 ;
+    text-decoration: underline;
+}
+*/
+

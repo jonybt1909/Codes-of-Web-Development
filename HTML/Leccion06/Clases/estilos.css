@@ -1,0 +1,29 @@
+/*Todos los elementos HTML*/
+*{
+    margin: 0px;
+    padding: 0px;
+}
+/*Identificador css*/
+#titulo_principal{
+    color: #f72585;
+    text-align: center;
+    margin: 10px;
+}
+h2{
+    color: #3f37c9;
+}
+p{
+    color: #457b9d;
+}
+/*Clase de CSS*/
+.tarjeta{
+    border: 10px solid #560bad;
+    background-color: #f1faee;
+    text-align: center;
+    margin: 15px 100px;
+    padding: 15px;
+}
+/*Clase de CSS*/
+.titulo_uno{
+    color: #f72585;
+}

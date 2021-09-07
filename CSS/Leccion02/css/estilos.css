@@ -1,0 +1,49 @@
+h1{
+    text-align: center;
+}
+
+.solido{
+    border: solid red;
+    border-width: 5px  ;
+    border-radius: 20px ;
+}
+
+.redondeado{
+    border: 5px solid;
+    border-radius: 20px 0px 10px 0px;
+}
+/*
+.punteado{
+    border-style:dotted ;
+    border-width: 10px 5px 3px 2px;
+    border-color: crimson hotpink gold lime;
+}
+
+.discontinuo{
+    border-style: dashed;
+    border-width: thick;
+    border-color: #457d9d;
+}
+
+.doble{
+    border: 10px double;
+}
+
+.surco{
+    /*border: 10px groove;
+    border-width: 10px;
+    border-style: groove;
+}
+
+.cresta{
+    border: 10px ridge;
+}
+
+.recuadro{
+    border: 10px inset;
+}
+
+.outset{
+    border: 10px outset;
+}
+*/

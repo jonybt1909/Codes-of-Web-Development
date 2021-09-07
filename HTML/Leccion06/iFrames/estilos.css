@@ -1,0 +1,29 @@
+
+.titulo{
+    color: #f72585;
+    text-align: center;
+}
+.marco{
+    width: 100%;
+    height: 500px;
+    border: 1px solid #f72585 ;
+}
+.centrar{
+    text-align: center;
+}
+/*Clase Boton*/
+.boton , .boton:visited{
+    background-color: white;
+    border: 2px solid #457b9d;
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px;
+}
+.boton:hover , .boton:active{ 
+    background-color: #457b9d;
+    color: white;
+}
+li{
+    list-style-type: none;
+    text-align: center;
+}
